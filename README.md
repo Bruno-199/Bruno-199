@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
 <h1 align="left">¡Hola! 👋 ¿Cómo estás?</h1>
 
 <p align="left">Mi nombre es Bruno Bazán y soy estudiante de la Universidad Tecnológica Nacional, Facultad Regional de Tucumán.</p>
