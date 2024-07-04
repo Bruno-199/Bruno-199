@@ -50,4 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width = "20" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-</div>
+</div>  
+
+###
+
+<img src="https://raw.githubusercontent.com/Bruno-199/Bruno-199/output/snake.svg" alt="Snake animation" />
+
+
+
