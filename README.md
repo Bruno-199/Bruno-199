@@ -5,41 +5,45 @@
 </p>
 
 
-<br><br>
 
 <h2 align="center">🙍‍♂️ Acerca de mí 🤔</h2>
 
 
-<p align="center">✨ Creando errores desde que empecé a programar.<br>📚 Actualmente estoy aprendiendo más sobre desarrollo full-stack.<br>🎯 Metas: Convertirme en un desarrollador full-stack competente.<br>🏀  Me gusta jugar básquetbol y fútbol en mi tiempo libre.  ⚽</p>
+<p align="center">
+✨ Mejorando continuamente desde que empecé a programar.<br><br>
+📚 Actualmente, estoy ampliando mis conocimientos en desarrollo full-stack.<br><br>
+🌱 Siempre abierto a aprender nuevas tecnologías y metodologías de desarrollo.<br><br>
+🎓 Busco oportunidades para aplicar mis habilidades.<br><br>
+📚 Meta: Mejorar mi dominio del idioma inglés para facilitar mi desarrollo profesional.<br><br>
+🏀 Disfruto jugando básquetbol y fútbol en mi tiempo libre. ⚽<br><br>
+</p>
+
+
 
 <br><br>
 
-  <h2 align="center"> Projects with Classmates 🤝</h2>
-  <h2 align="center"> hospital</h2>
+  <h2 align="center">👾 Projectos con Compañeros 🤝</h2>
+  
 
  <div align="center">
   <a href="https://www.youtube.com/watch?v=scNcEqjliuc" target="_blank"> 
-    <img src="https://i.ytimg.com/vi/_txOOzTxxPg/maxresdefault.jpg" alt="Video 1" width="300" />
+    <img src="https://i.ytimg.com/vi/_txOOzTxxPg/maxresdefault.jpg" alt="Video 1" width="200" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      
   <a href="https://www.youtube.com/watch?v=bbZAnSNT04w" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:1358/1*hAnowsPLNWKe7dsEjOkZrA.png" alt="Video 2" width="300" />
+    <img src="https://miro.medium.com/v2/resize:fit:1358/1*hAnowsPLNWKe7dsEjOkZrA.png" alt="Video 2" width="200" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      
   <a href="https://www.youtube.com/watch?v=bbZAnSNT04w" target="_blank">
-    <img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/654025/92f64441-d321-dd43-7185-6ceda3e205a3.png" alt="Video 3" width="300" />
+    <img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/654025/92f64441-d321-dd43-7185-6ceda3e205a3.png" alt="Video 3" width="200" />
   </a>
 </div>
 
 
 
 <br><br>
-
-
-
-
 
 
 <br><br>
@@ -61,7 +65,7 @@
 
 <br><br>
 
-<h2 align="center"> 🧬 My Stats ♒</h2>
+<h2 align="center"> 🧬 My Stats 📊</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bruno-199&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="gráfico de lenguajes" />
