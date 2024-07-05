@@ -15,14 +15,21 @@
 <br><br>
 
   <h2 align="center"> Projects with Classmates 🤝</h2>
+  <h2 align="center"> hospital</h2>
 
  <div align="center">
   <a href="https://www.youtube.com/watch?v=scNcEqjliuc" target="_blank"> 
-    <img src="https://i.ytimg.com/vi/_txOOzTxxPg/maxresdefault.jpg" alt="Video 1" width="400" />
+    <img src="https://i.ytimg.com/vi/_txOOzTxxPg/maxresdefault.jpg" alt="Video 1" width="300" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     
   <a href="https://www.youtube.com/watch?v=bbZAnSNT04w" target="_blank">
-    <img src="https://younaship.com/wp-content/uploads/2021/01/image-2.png" alt="Video 2" width="400" />
+    <img src="https://miro.medium.com/v2/resize:fit:1358/1*hAnowsPLNWKe7dsEjOkZrA.png" alt="Video 2" width="300" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     
+  <a href="https://www.youtube.com/watch?v=bbZAnSNT04w" target="_blank">
+    <img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/654025/92f64441-d321-dd43-7185-6ceda3e205a3.png" alt="Video 3" width="300" />
   </a>
 </div>
 
