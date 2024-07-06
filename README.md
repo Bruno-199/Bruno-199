@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Bienvenido a mi Perfil 👋</h1> ⭐️ From [Bruno](https://github.com/Bruno-199)
+<h1 align="center">¡Hola! Bienvenido a mi Perfil 👋</h1> 
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
@@ -81,6 +81,7 @@
 <img src="https://raw.githubusercontent.com/Bruno-199/Bruno-199/output/snake.svg" alt="Snake animation" />
   
 </div>
+
 
 
 
