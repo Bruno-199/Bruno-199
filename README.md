@@ -22,7 +22,7 @@
 
 <br><br>
 
-  <h2 align="center">👾 Projectos con Compañeros 🤝<br><br> Proyecto Hospital: Sistema de gestión hospitalaria utilizando Distintas Herramientas. </h2>
+  <h2 align="center">👾 Proyectos con Compañeros 🤝<br><br> Proyecto Hospital: Sistema de gestión hospitalaria utilizando Distintas Herramientas. </h2>
   
 
  <div align="center">
